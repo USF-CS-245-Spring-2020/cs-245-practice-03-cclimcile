@@ -108,6 +108,7 @@ public class Practice03Test {
 		Practice03Test test = new Practice03Test();
 		test.timeSearches();
 		test.timeSorts();
+		System.out.println("We did it!");
 	}
 
 }
